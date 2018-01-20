@@ -1,0 +1,3 @@
+[submodule "Wordpress_PostController"]
+	path = Wordpress_PostController
+	url = https://github.com/HarriBellThomas/Wordpress_PostController
